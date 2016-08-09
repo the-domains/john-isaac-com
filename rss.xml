@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[john-isaac.com]]></title>
         <description><![CDATA[john-isaac.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/john-isaac-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 16:17:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Aug 2016 16:17:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/john-isaac-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Reading list]]></title>
+            <description><![CDATA[<article><h1>Reading list</h1><p>I'm often asked what I'm reading these days and finally decided to post my Amazon Kindle Reading List.</p></article>]]></description>
+            <link>https://thegrid.ai/john-isaac-com/reading-list/index.html</link>
+            <guid isPermaLink="false">097aa760-567d-47cb-94f0-bc94ff021626</guid>
+            <pubDate>Tue, 09 Aug 2016 16:17:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Things I care about]]></title>
             <description><![CDATA[<article><h1>Things I care about</h1><p>My passion is for identifying and getting involved with emergent technologies at the cusp of potential application to real-world problems, then productization and solutioning these technologies up until critical mass or market inertia/penetration is achieved around the problem space, in which case I often repeat the cycle with newly emergent technology.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c4f845a-4dfe-4595-88de-f7c9906c1c5b.jpg"></article>]]></description>
-            <link>undefinedthings-i-care-about/index.html</link>
+            <link>https://thegrid.ai/john-isaac-com/things-i-care-about/index.html</link>
             <guid isPermaLink="false">71dbbb4c-7c0e-468b-ac6b-ebe4bf680fc8</guid>
             <pubDate>Tue, 09 Aug 2016 16:17:31 GMT</pubDate>
         </item>
