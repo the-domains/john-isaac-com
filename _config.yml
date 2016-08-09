@@ -1,0 +1,28 @@
+name: john-isaac.com
+favicon: null
+layout_spectrum: 0.021702178055420518
+typography_spectrum: 0.31427823402918875
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2944220472127199
+  lightness: 0.44904096564278007
+  saturation: 0.19366650842130184
+  rhythmicContrast: 0.8953883023932576
+purpose: []
