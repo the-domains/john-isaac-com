@@ -7,8 +7,8 @@ keywords: []
 description: >-
   I'm often asked what I'm reading these days and finally decided to post my
   Amazon Kindle Reading List.
-datePublished: '2016-08-10T02:33:17.164Z'
-dateModified: '2016-08-10T02:33:00.519Z'
+datePublished: '2016-08-10T21:57:23.373Z'
+dateModified: '2016-08-10T02:33:23.719Z'
 title: Reading list
 author: []
 via: {}
